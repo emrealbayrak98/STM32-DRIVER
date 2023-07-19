@@ -1,0 +1,14 @@
+usart_driver.c:27:6:USART_SetBaudRate	5
+usart_driver.c:104:6:USART_Init	9
+usart_driver.c:218:6:USART_PeripheralControl	2
+usart_driver.c:246:6:USART_PeriClockControl	6
+usart_driver.c:285:9:USART_GetFlagStatus	2
+usart_driver.c:309:6:USART_SendData	6
+usart_driver.c:372:6:USART_ReceiveData	6
+usart_driver.c:447:9:USART_SendDataIT	2
+usart_driver.c:485:9:USART_ReceiveDataIT	2
+usart_driver.c:523:6:USART_ClearFlag	1
+usart_driver.c:543:6:USART_IRQInterruptConfig	12
+usart_driver.c:598:6:USART_IRQPriorityConfig	1
+usart_driver.c:624:6:USART_IRQHandling	30
+usart_driver.c:927:13:USART_ApplicationEventCallback	1

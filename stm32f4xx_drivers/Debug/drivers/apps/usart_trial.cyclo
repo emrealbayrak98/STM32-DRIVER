@@ -1,0 +1,5 @@
+usart_trial.c:16:6:USART2_Init	1
+usart_trial.c:28:7:USART2_GPIOInit	1
+usart_trial.c:50:6:GPIO_ButtonInit	1
+usart_trial.c:77:6:delay	2
+usart_trial.c:83:5:main	2
